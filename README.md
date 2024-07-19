@@ -14,7 +14,7 @@ Welcome to the Sudoku Game! This is a simple and engaging Java-based Sudoku game
 
 1. **Clone the Repository**:
    ```sh
-   git clone https://github.com/yourusername/sudoku-game.git
+   git clone https://github.com/dhruval03/Sudoku_Game.git
    ```
 2. **Navigate to the Project Directory**:
    ```sh
